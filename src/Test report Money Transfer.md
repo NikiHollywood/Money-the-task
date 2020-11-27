@@ -7,7 +7,7 @@
 На тестирование затрачено: 01:00 
 
 ##### В результате тестирования выявлены следующие дефекты:
-* https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/6 
+[Ошибка расчета текущего баланса счета клиента после пополнения](https://github.com/NikiHollywood/Money-the-task/issues/1 "issui")
 
 ## Описание процесса тестировании
 
